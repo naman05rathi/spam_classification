@@ -14,5 +14,6 @@ Model used to classify whether a mail is spam or ham is "Naive-Bayes" classifica
 1. 'Free Viagra!!!'
 2. "Send me documents today."
 3. 'Shopping discount'
-![spam](https://user-images.githubusercontent.com/25280843/28688746-90d23b20-7330-11e7-8037-0357319781b8.png)
 
+
+![spam](https://user-images.githubusercontent.com/25280843/28688746-90d23b20-7330-11e7-8037-0357319781b8.png)
